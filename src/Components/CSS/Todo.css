@@ -1,0 +1,19 @@
+.todo {
+  width: 600px;
+  min-height: 732px;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 175px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 45px;
+  padding-bottom: 30px;
+  margin-bottom: 100px;
+}
+
+.todo-header {
+  margin-top: 84px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 34px;
+}
